@@ -6,5 +6,7 @@ Imagine yourself in this scenario
 I have just created a simple To do List so you can note down what you have to do today? 
 
  ![](https://github.com/selenalee123/Todolist/blob/master/Photo%20of%20the%20Todo%20List.png)
+ 
+ Start adding your activities here https://selenalee123.github.io/Todolist/
 
 Enjoy!! 
